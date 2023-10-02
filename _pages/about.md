@@ -25,11 +25,11 @@ Advisor: [Dr. Kaiyu Guan](http://faculty.nres.illinois.edu/~kaiyuguan/)
 
 **B.S. in Hydraulic Engineering**\
 Department of Hydraulic Engineering\
-Tsinghua University\
+Tsinghua University
 
 **B.S. in Economics**\
 School of Economics and Management\
-Tsinghua University\
+Tsinghua University
 
 ## Research Interest
 
