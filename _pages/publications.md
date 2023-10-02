@@ -15,7 +15,7 @@ author_profile: true
 - **Yang Y.**, Guan, K., Peng, B., Pan, M., et al. Within-field soil moisture variability and temporal stability of agricultural fields in
   the US Midwest.
 
-- **Yang Y.**, Guan, K., Peng, B., Feng, X., et al. A unified framework to reconcile theories of modeling transpiration response to drought:
+- **Yang Y.**, Guan, K., Peng, B., Feng, X., et al. A unified framework to reconcile different theories of modeling transpiration response to drought:
   plant hydraulics, supply-demand balance, and empirical soil water stress.
 
 **2023**
