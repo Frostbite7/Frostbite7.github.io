@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-## About me
-
+About me
+=====
 I am a computational modeler currently completing my PhD at University of Illinois at Urbana-Champaign. My PhD focuses on
 ecological-hydrological modeling (esp., plant response
 to drought), fine-scale soil moisture dynamics, and model-data integration for earth and climate science. Before that, I received my B.S. in
@@ -53,5 +53,6 @@ Teaching Assistant\
 
 ## Journal Reviewer
 
-_Water Resources Research, Global Change Biology, Plant, Cell & Environment, Journal of Hydrology, Agricultural Water Management, Atmospheric
+_Water Resources Research, Global Change Biology, Plant, Cell & Environment, Journal of Hydrology, Agricultural Water Management,
+Atmospheric
 Research, Agronomy Journal, Applied Water Science_
