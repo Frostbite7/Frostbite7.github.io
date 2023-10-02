@@ -4,7 +4,7 @@ title: "Miscellaneous"
 author_profile: true
 ---
 
-Check out this [utility website](https://www.term-quiz.com/). Feed it with any article, and it will automatically highlight difficult terms
+Check out this [utility website](https://www.term-quiz.com/)! Feed it with any article, and it will automatically highlight difficult terms
 and provide definitions and generate multiple choice questions for you to play.
 <br/>
 
