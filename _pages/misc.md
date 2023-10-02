@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 Check out this [utility website](https://www.term-quiz.com/). Feed it with any article, and it will automatically highlight difficult terms
-and provide definitions and generate multiple choice questions for you to play.\
+and provide definitions and generate multiple choice questions for you to play.
+<br/>
 
 I am an amateur astrophotographer. Check out my work on [500px](https://500px.com/p/yangyicge?view=photos).
 ![andromeda](/images/andromeda.jpg)
