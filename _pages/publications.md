@@ -41,16 +41,16 @@ author_profile: true
   p.5549. [\[Link\]](https://www.nature.com/articles/s41467-021-25254-7)
 
 - Zhang, J., Guan, K., Peng, B., Pan, M., Zhou, W., Grant, R.F., Franz, T.E., Rudnick, D.R., Heeren, D.M., Suyker, A. and **Yang, Y.**,
-  2021. Assessing different plant‐centric water stress metrics for irrigation efficacy using soil‐plant‐atmosphere‐continuum simulation.
+  Assessing different plant‐centric water stress metrics for irrigation efficacy using soil‐plant‐atmosphere‐continuum simulation.
   Water Resources Research, 57(9), p.e2021WR030211. [\[Link\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021WR030211)
 
 - **Yang, Y.**, Guan, K., Peng, B., Pan, M., Jiang, C. and Franz, T.E., 2021. High-resolution spatially explicit land surface model
   calibration using field-scale satellite-based daily evapotranspiration product. Journal of Hydrology, 596,
   p.125730. [\[Link\]](https://www.sciencedirect.com/science/article/pii/S0022169420311914)
 
-- Zhang, J., Guan, K., Peng, B., Jiang, C., Zhou, W., **Yang, Y.**, Pan, M., Franz, T.E., Heeren, D.M., Rudnick, D.R. and Abimbola, O.,
-  2021. Challenges and opportunities in precision irrigation decision-support systems for center pivots. Environmental Research Letters, 16(
-  5), p.053003. [\[Link\]](https://iopscience.iop.org/article/10.1088/1748-9326/abe436/meta)
+- Zhang, J., Guan, K., Peng, B., Jiang, C., Zhou, W., **Yang, Y.**, Pan, M., Franz, T.E., Heeren, D.M., Rudnick, D.R. and Abimbola, O.,2021.
+  Challenges and opportunities in precision irrigation decision-support systems for center pivots. Environmental Research Letters, 16(5),
+  p.053003. [\[Link\]](https://iopscience.iop.org/article/10.1088/1748-9326/abe436/meta)
 
 **2020**
 
