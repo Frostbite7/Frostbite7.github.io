@@ -9,7 +9,7 @@ I am an amateur astrophotographer. Check out my work on [500px](https://500px.co
 [scorpion](/images/scorpion.jpg)
 <br/>
 
-I run marathons and am a routine long-distance runner. My personal best is 3:32:00 at the 2019 Champaign Marathon.
+I run marathons and am a routine long-distance runner. My personal best is 3:32:00 at 2019 Illinois Marathon.
 <br/>
 
 I am of ethnic Miao/Hmong descent and grew up in the mountainous areas of southwestern China. I went to Beijing for my undergraduate study
