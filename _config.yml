@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "yybb's homepage"
+title                    : "Yi Yang's homepage"
 title_separator          : "-"
-name                     : &name "Yi Yang"
-description              : &description "personal description"
+name                     : "Yi Yang"
+description              : "personal description"
 url                      : https://frostbite7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Frostbite7/Frostbite7.github.io"
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yi Yang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Computational modeling in earth and climate science"
+  location         : "Urbana, IL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=PA1xQIMAAAAJ&hl=en"
+  email            : "yangyicge@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : #"https://www.facebook.com/profile.php?id=100005727632784"
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Frostbite7"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/yangyicge/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/yi-yang-6679ab86/"
+  orcid            : "https://orcid.org/0000-0002-4736-5491"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

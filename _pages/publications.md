@@ -15,6 +15,7 @@ author_profile: true
 
 - **Yang Y.**, Guan, K., Peng, B., Feng, X., et al. A unified framework to reconcile theories of modeling transpiration response to drought: plant hydraulics, supply-demand balance, and empirical soil water stress.
 
+
 **2023**
 
 - Zhang, J., Guan, K., Zhou, W., Jiang, C., Peng, B., Pan, M., Grant, R.F., Franz, T.E., Suyker, A., **Yang, Y.** and Chen, X., 2023. Combining Remotely Sensed Evapotranspiration and an Agroecosystem Model to Estimate Center‐Pivot Irrigation Water Use at High Spatio‐Temporal Resolution. Water Resources Research, 59(3), p.e2022WR032967. [\[Link\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022WR032967)
