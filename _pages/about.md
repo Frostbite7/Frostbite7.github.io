@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About me
+======
 I am a computational modeler currently completing my PhD at University of Illinois at Urbana-Champaign. My PhD focuses on
 ecological-hydrological modeling (esp., plant response to drought), fine-scale soil moisture dynamics, and model-data integration for
 earth and climate science. Before that, I received my B.S. in Hydraulic engineering and a second B.S. in economics from Tsinghua University,
