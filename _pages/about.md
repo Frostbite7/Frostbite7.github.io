@@ -53,5 +53,5 @@ Teaching Assistant\
 
 ## Journal Reviewer
 
-_Water Resources Research, Global Change Biology, Plant, Cell & Environment, Journal of Hydrology, Agractural Water Management, Atmospheric
+_Water Resources Research, Global Change Biology, Plant, Cell & Environment, Journal of Hydrology, Agricultural Water Management, Atmospheric
 Research, Agronomy Journal, Applied Water Science_
