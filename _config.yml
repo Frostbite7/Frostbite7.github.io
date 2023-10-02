@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yi Yang's homepage7"
+title                    : "Yi Yang's homepage"
 title_separator          : "-"
-name                     : "Yi Yang7"
+name                     : "Yi Yang"
 description              : "Yi Yang's personal website"
 url                      : https://frostbite7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
