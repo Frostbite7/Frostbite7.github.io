@@ -33,7 +33,7 @@ Tsinghua University\
 
 ## Research Interest
 
-### Computational modeling for complex systems
+### Computational modeling of complex systems
 
 I use combined physical (process-based) and statistical (machine learning) models to simulate complex systems, with
 a focus currently on earth and climate science. Especially, how complex physical models can be simplified for increased efficiency in
