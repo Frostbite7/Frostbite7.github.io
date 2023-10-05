@@ -13,13 +13,15 @@ author_profile: true
         action="https://formspree.io/f/xknlpygy"
         method="POST"
 >
+    <label for="full-name">Full Name</label>
+    <input type="text" name="name" id="full-name" placeholder="First and Last (optional)">
     <label>
         Your email:
-        <input type="email" name="_replyto">
+        <input type="email" name="email">
     </label>
     <label>
         Your message:
-        <textarea name="message" rows="5"></textarea>
+        <textarea name="message" rows="5" required></textarea>
     </label>
     <!-- your other form fields go here -->
     <button type="submit">Send</button>
