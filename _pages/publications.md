@@ -10,7 +10,7 @@ author_profile: true
 **In review**
 
 - **Yang Y.**, Guan, K., Peng, B., et al. Explicit consideration of plant xylem hydraulic transport improves the simulation of crop response
-  to atmospheric dryness in the US Corn Belt \[In review\].
+  to atmospheric dryness in the US Corn Belt.  \[In review\]
 
 - **Yang Y.**, Guan, K., Peng, B., Pan, M., et al. Within-field soil moisture variability and temporal stability of agricultural fields in
   the US Midwest. [\[In review. Link to conference presentation\]](https://ui.adsabs.harvard.edu/abs/2022AGUFM.H22R1087Y/abstract)
