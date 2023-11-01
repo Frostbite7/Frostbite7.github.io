@@ -13,10 +13,10 @@ author_profile: true
   to atmospheric dryness in the US Corn Belt.
 
 - **Yang Y.**, Guan, K., Peng, B., Pan, M., et al. Within-field soil moisture variability and temporal stability of agricultural fields in
-  the US Midwest.
+  the US Midwest. [\[In review. Link to conference presentation\]](https://ui.adsabs.harvard.edu/abs/2022AGUFM.H22R1087Y/abstract)
 
 - **Yang Y.**, Guan, K., Peng, B., Feng, X., et al. A unified framework to reconcile different theories of modeling transpiration response to drought:
-  plant hydraulics, supply-demand balance, and empirical soil water stress.
+  plant hydraulics, supply-demand balance, and empirical soil water stress. [\[In review. Link to conference presentation\]](https://ui.adsabs.harvard.edu/abs/2022AGUFM.B16C..03Y/abstract)
 
 **2023**
 
