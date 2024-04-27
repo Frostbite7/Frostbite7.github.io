@@ -12,11 +12,13 @@ author_profile: true
 - **Yang Y.**, Guan, K., Peng, B., et al. Explicit consideration of plant xylem hydraulic transport improves the simulation of crop response
   to atmospheric dryness in the US Corn Belt.  [\[In review. Link to preprint\]](https://essopenarchive.org/users/694774/articles/683729-explicit-consideration-of-plant-xylem-hydraulic-transport-improves-the-simulation-of-crop-response-to-atmospheric-dryness-in-the-us-corn-belt)
 
-- **Yang Y.**, Guan, K., Peng, B., Pan, M., et al. Within-field soil moisture variability and temporal stability of agricultural fields in
-  the US Midwest. [\[In review. Link to conference presentation\]](https://ui.adsabs.harvard.edu/abs/2022AGUFM.H22R1087Y/abstract)
-
 - **Yang Y.**, Guan, K., Peng, B., Feng, X., et al. A unified framework to reconcile different theories of modeling transpiration response to drought:
   plant hydraulics, supply-demand balance, and empirical soil water stress. [\[In review. Link to conference presentation\]](https://ui.adsabs.harvard.edu/abs/2022AGUFM.B16C..03Y/abstract)
+
+**2024**
+
+- **Yang Y.**, Peng, B., Guan, K., Pan, M., Franz, T.E., Cosh, M.H. and Bernacchi, C.J., 2024. Within-field soil moisture variability and time-invariant spatial structures of agricultural fields in
+  the US Midwest. Vadose Zone Journal. [\[Link\]](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/vzj2.20337)
 
 **2023**
 
@@ -26,7 +28,7 @@ author_profile: true
   p.e2022WR032967. [\[Link\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022WR032967)
 
 - Wang, S., Guan, K., Zhang, C., Zhou, Q., Wang, S., Wu, X., Jiang, C., Peng, B., Mei, W., Li, K., Li, Z., **Yang, Y.**, Zhou, W., Huang Y.
-  and Ma Z. 2023. Cross-scale sensing of field-level crop residue cover: Integrating field photos, airborne hyperspectral imaging, and
+  and Ma Z., 2023. Cross-scale sensing of field-level crop residue cover: Integrating field photos, airborne hyperspectral imaging, and
   satellite data. Remote Sensing of Environment, 285,
   p.113366. [\[Link\]](https://www.sciencedirect.com/science/article/pii/S0034425722004722)
 
