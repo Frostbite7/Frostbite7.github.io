@@ -18,7 +18,7 @@ and academia starting from Spring/Summer 2024.
 
 ## Education
 
-Aug 2018 - Apr 2024 (expected)\
+Aug 2018 - Apr 2024\
 **Ph.D. in Earth System Science**\
 College of Agricultural, Consumer and Environmental Sciences\
 University of Illinois at Urbana-Champaign
