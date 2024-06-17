@@ -14,7 +14,7 @@ I am a computational modeler currently completing my PhD at University of Illino
 computational modeling of earth systems and water sustainability issues under climate change. Before that, I received my B.S. in
 Hydraulic engineering and a second Bachelor of Economics from Tsinghua University, China. I am passionate about applying machine learning,
 combined with insights of physical modeling, to solve real world issues. I'm looking for full-time positions in both industry
-and academia starting from Spring/Summer 2024.
+and academia starting from 2024.
 
 ## Education
 
