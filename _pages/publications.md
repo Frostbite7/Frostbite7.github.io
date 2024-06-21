@@ -15,7 +15,7 @@ author_profile: true
 **2024**
 
 - **Yang Y.**, Guan, K., Peng, B., Liu, Y., Pan, M., 2024. Explicit consideration of plant xylem hydraulic transport improves the simulation of crop response
-  to atmospheric dryness in the US Corn Belt. Water Resources Research. [\[Accepted. Link to preprint\]](https://essopenarchive.org/users/694774/articles/683729-explicit-consideration-of-plant-xylem-hydraulic-transport-improves-the-simulation-of-crop-response-to-atmospheric-dryness-in-the-us-corn-belt)
+  to atmospheric dryness in the US Corn Belt. Water Resources Research, 60(6), p.e2023WR036468. [\[Link\]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR036468)
 
 - **Yang Y.**, Peng, B., Guan, K., Pan, M., Franz, T.E., Cosh, M.H. and Bernacchi, C.J., 2024. Within-field soil moisture variability and time-invariant spatial structures of agricultural fields in
   the US Midwest. Vadose Zone Journal, e20337. [\[Link\]](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/vzj2.20337)
