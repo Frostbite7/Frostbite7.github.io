@@ -58,7 +58,7 @@ and the sustainability issues of water resources in agricultural ecosystems.
   to atmospheric dryness in the US Corn Belt. Water Resources Research, 60(6), p.e2023WR036468. [\[Link\]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR036468)
 
 - **Yang Y.**, Peng, B., Guan, K., Pan, M., Franz, T.E., Cosh, M.H. and Bernacchi, C.J., 2024. Within-field soil moisture variability and time-invariant spatial structures of agricultural fields in
-  the US Midwest. Vadose Zone Journal, e20337. [\[Link\]](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/vzj2.20337)
+  the US Midwest. Vadose Zone Journal, e20337. [\[Link\]](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/vzj2.20337)[\[News\]](https://asc.illinois.edu/uncategorized/asc-led-study-reveals-stable-soil-moisture-variability-within-fields-and-opens-the-door-for-satellite-remote-sensing-for-future-measurements/)
 
 - Zhang, J., Guan, K., Zhou, W., Jiang, C., Peng, B., Pan, M., Grant, R.F., Franz, T.E., Suyker, A., **Yang, Y.** and Chen, X., 2023.
   Combining Remotely Sensed Evapotranspiration and an Agroecosystem Model to Estimate Center‐Pivot Irrigation Water Use at High

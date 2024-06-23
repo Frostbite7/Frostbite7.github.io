@@ -21,7 +21,7 @@ author_profile: true
 
 - **Yang Y.**, Peng, B., Guan, K., Pan, M., Franz, T.E., Cosh, M.H. and Bernacchi, C.J., 2024. Within-field soil moisture variability and
   time-invariant spatial structures of agricultural fields in the US Midwest. Vadose Zone Journal,
-  e20337. [\[Link\]](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/vzj2.20337)
+  e20337. [\[Link\]](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/vzj2.20337)[\[News\]](https://asc.illinois.edu/uncategorized/asc-led-study-reveals-stable-soil-moisture-variability-within-fields-and-opens-the-door-for-satellite-remote-sensing-for-future-measurements/)
 
 **2023**
 
