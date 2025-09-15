@@ -10,15 +10,14 @@ redirect_from:
 
 About me
 =====
-I am a computational modeler currently completing my PhD at University of Illinois at Urbana-Champaign. My PhD focuses on
-computational modeling of earth systems and water sustainability issues under climate change. Before that, I received my B.S. in
-Hydraulic engineering and a second Bachelor of Economics from Tsinghua University, China. I am passionate about applying machine learning,
-combined with insights of physical modeling, to solve real world issues. I'm looking for full-time positions in both industry
-and academia starting from 2024.
+I am a computational modeler currently working as a data scientist at Google. I got my PhD at University of Illinois at Urbana-Champaign. My PhD focuses on
+machine learning and numerical modeling of the earth systems and water sustainability issues under climate change. Before that, I received my B.S. in
+Hydraulic engineering and Bachelor of Economics from Tsinghua University, China. I am passionate about applying machine learning,
+combined with insights of physical modeling, to solve real world issues.
 
 ## Education
 
-**Ph.D. in Earth System Science**\
+**Ph.D. in Earth System Science (numerical modeling focus)**\
 College of Agricultural, Consumer and Environmental Sciences\
 University of Illinois at Urbana-Champaign
 
@@ -29,22 +28,6 @@ Tsinghua University
 **B.S. in Economics**\
 School of Economics and Management\
 Tsinghua University
-
-## Research Interest
-
-### Computational modeling of complex systems
-
-I use combined physical (process-based) and statistical (machine learning) models to simulate complex systems, with
-a focus currently on earth and climate science. Especially, how complex physical models can be simplified for increased efficiency in
-estimation and prediction, how to quantify and improve the robustness and trustworthiness of inferred process understanding from model-data
-fusion given the scarcity and uncertainty of observation data (a ubiquitous issue in earth and climate science), and how process-based and
-machine learning-based models can be combined to reliably and efficiently simulate complex systems constrained by observation data of
-varying uncertainties.
-
-### Water sustainability under climate change
-
-The sustainability of water resources is a major concern under climate change. My PhD specifically focuses on how plants respond to drought
-and the sustainability issues of water resources in agricultural ecosystems.
 
 ## Publications
 
@@ -91,19 +74,3 @@ and the sustainability issues of water resources in agricultural ecosystems.
 
 - Wang, C., Xu, J., Tang, G., **Yang, Y.** and Hong, Y., 2020. Infrared precipitation estimation using convolutional neural network. IEEE
   Transactions on Geoscience and Remote Sensing, 58(12), pp.8612-8625. [\[Link\]](https://ieeexplore.ieee.org/abstract/document/9085928)
-
-
-## Teaching Experience
-
-**NRES405 Watershed Hydrology (Spring 2019)**  
-Teaching Assistant\
-@University of Illinois at Urbana-Champaign
-
-**Introduction to Coastal Engineering (Spring 2017 & Spring 2018)**  
-Teaching Assistant\
-@Tsinghua University
-
-## Journal Reviewer
-
-_Water Resources Research, Remote Sensing of Environment, Global Change Biology, Plant, Cell & Environment, Journal of Hydrology, Agricultural Water Management,
-Atmospheric Research, Agronomy Journal, Applied Water Science_
