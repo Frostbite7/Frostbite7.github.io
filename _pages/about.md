@@ -34,7 +34,7 @@ Tsinghua University
 *[Google Scholar](https://scholar.google.com/citations?user=PA1xQIMAAAAJ&hl=en)*
 
 - **Yang Y.**, Guan, K., Peng, B., Feng, X., et al. A unified framework to reconcile different theories of modeling transpiration response to drought:
-  plant hydraulics, supply-demand balance, and empirical soil water stress. [\[Link\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023MS003911)
+  plant hydraulics, supply-demand balance, and empirical soil water stress. [\[Link\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023MS003911)[\[News\]](https://asc.illinois.edu/uncategorized/asc-scientists-unified-disparate-transpiration-theories-into-one-framework/)
 
 - **Yang Y.**, Guan, K., Peng, B., Liu, Y., Pan, M., 2024. Explicit consideration of plant xylem hydraulic transport improves the simulation of crop response
   to atmospheric dryness in the US Corn Belt. Water Resources Research, 60(6), p.e2023WR036468. [\[Link\]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR036468)

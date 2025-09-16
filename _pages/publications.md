@@ -10,7 +10,7 @@ author_profile: true
 **2025**
 
 - **Yang Y.**, Guan, K., Peng, B., Feng, X., et al. A unified framework to reconcile different theories of modeling transpiration response
-  to drought: plant hydraulics, supply-demand balance, and empirical soil water stress. [\[Link\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023MS003911)
+  to drought: plant hydraulics, supply-demand balance, and empirical soil water stress. [\[Link\]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023MS003911)[\[News\]](https://asc.illinois.edu/uncategorized/asc-scientists-unified-disparate-transpiration-theories-into-one-framework/)
 
 **2024**
 
